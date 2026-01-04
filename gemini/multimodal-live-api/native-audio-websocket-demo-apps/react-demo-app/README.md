@@ -2,6 +2,8 @@
 
 A React-based client for Google's Gemini Live API, featuring real-time audio/video streaming and a WebSocket proxy for secure authentication.
 
+[![React Demo Video](https://img.youtube.com/vi/wCrz8tw6xXs/hqdefault.jpg)](https://www.youtube.com/watch?v=wCrz8tw6xXs)
+
 ## Quick Start
 
 ### 1. Backend Setup
@@ -22,6 +24,8 @@ python server.py
 ### 2. Frontend Setup
 
 In a new terminal, start the React application:
+
+Ensure you have Node.js and npm installed. If not, download and install them from [nodejs.org](https://nodejs.org/en/download/).
 
 ```bash
 # Install Node modules
@@ -85,6 +89,6 @@ The app uses AudioWorklets for low-latency audio processing:
 
 ## Configuration
 
-- **Model**: Defaults to `gemini-live-2.5-flash-preview-native-audio-09-2025`
+- **Model**: Defaults to `gemini-live-2.5-flash-native-audio`
 - **Voice**: Configurable in `LiveAPIDemo.jsx` (Puck, Charon, etc.)
 - **Proxy Port**: Default `8080` (set in `server.py`)

@@ -96,7 +96,7 @@
               <input
                 type="text"
                 id="model"
-                value="gemini-live-2.5-flash-preview-native-audio-09-2025"
+                value="gemini-live-2.5-flash-native-audio"
                 placeholder="Enter model ID" />
             </div>
           </details>
@@ -265,6 +265,19 @@ You are a helpful assistant. Be concise and friendly.</textarea
                 <option value="START_SENSITIVITY_LOW">
                   Low (more filtering)
                 </option>
+              </select>
+            </div>
+
+            <div>
+              <label for="activityHandling">Activity Handling:</label><br />
+              <select id="activityHandling">
+                <option value="ACTIVITY_HANDLING_UNSPECIFIED" selected>
+                  Default (Interrupts)
+                </option>
+                <option value="START_OF_ACTIVITY_INTERRUPTS">
+                  Interrupt (Barge-in)
+                </option>
+                <option value="NO_INTERRUPTION">No Interruption</option>
               </select>
             </div>
           </details>

@@ -94,8 +94,11 @@ Autorater
 autosxs
 AUVs
 avec
+Avenir
 aworkflow
 axs
+Ayra
+Ayyappa
 backstory
 backticks
 bagchi
@@ -169,7 +172,10 @@ CAMQAA
 Caprese
 carbonara
 Carcante
+cardio
+Cardio
 Cardizem
+Casagrand
 cashify
 CASP
 catus
@@ -180,6 +186,7 @@ ccc
 cce
 cctv
 cdiv
+CDNs
 ceb
 ceo
 cer
@@ -329,12 +336,14 @@ draig
 Dreesen
 drilldown
 drinkware
+dropbtn
 dropdown
 dropna
 DRV
 dshm
 dsl
 dsn
+DSQ
 dtype
 dtypes
 Duh
@@ -438,6 +447,7 @@ fiqa
 firestore
 firewalls
 Fishburne
+FITNESSS
 fixmycar
 flac
 Flahs
@@ -526,6 +536,7 @@ gke
 GKE
 Gleyber
 glowin
+gmaps
 Gmb
 GmbH
 gms
@@ -563,6 +574,7 @@ gunicorn
 GWLP
 hadolint
 hahaha
+Haichao
 halluc
 Hamamoto
 Hamers
@@ -578,6 +590,7 @@ HDFC
 hdfs
 HDFS
 hdlr
+hdone
 hdtv
 heatmap
 heatmapgl
@@ -597,6 +610,8 @@ HMO
 hnsw
 Hogwarts
 Homesley
+Hoodi
+Horamavu
 Hossein
 hotpotqa
 hovermode
@@ -697,6 +712,7 @@ jit
 jiwer
 Joji
 Jolyon
+Jostar
 JPY
 jsemer
 jsonify
@@ -831,6 +847,7 @@ Malware
 Mamah
 Mandiri
 manquez
+Manyata
 mapbox
 marp
 Masaru
@@ -920,6 +937,7 @@ myaccount
 mydb
 mydomain
 NADPH
+Nagar
 Nagasu
 Najim
 Nakoso
@@ -960,6 +978,7 @@ NICOLAS
 nih
 Nihonga
 Niitsuma
+nin
 Nith
 nlp
 nmade
@@ -1009,6 +1028,7 @@ Ollama
 olleh
 omn
 Omnibox
+OMR
 onesie
 onesies
 Onone
@@ -1023,6 +1043,7 @@ Orus
 osm
 oss
 osx
+otlp
 outdir
 outro
 overwiew
@@ -1034,6 +1055,7 @@ Pakeman
 paleo
 paligemma
 palustris
+Palya
 pancetta
 pandoc
 pantarba
@@ -1076,6 +1098,8 @@ Photoshop
 Pichai
 pietra
 pii
+pilates
+Pilates
 pincodes
 Pistorius
 pixmap
@@ -1097,6 +1121,7 @@ Poirot
 Polong
 ponyo
 Ponyo
+Popken
 popleft
 Porat
 postictal
@@ -1118,6 +1143,7 @@ pth
 PTx
 pubmed
 pubspec
+Puram
 putalpha
 putdata
 pvc
@@ -1204,6 +1230,7 @@ RNN
 RNNs
 Robeco
 Robo
+Robotica
 ROOTSPAN
 Rosberg
 rpet
@@ -1259,6 +1286,7 @@ Sestero
 setlocal
 sft
 Sha'carri
+shalas
 Shankman
 Shaoxiong
 sharegpt
@@ -1266,6 +1294,7 @@ Sharmila
 Shawshank
 Shazeer
 Shenzhou
+Shibuya
 Shklovsky
 Shohei
 shortdesc
@@ -1275,6 +1304,7 @@ showland
 showor
 showtime
 showtimes
+shrt
 Shubham
 Shyamalan
 sid
@@ -1301,6 +1331,7 @@ SMSN
 SNB
 SNE
 snowboard
+socketio
 Sono
 sourced
 spamming
@@ -1360,6 +1391,7 @@ tastetest
 tavily
 Tbk
 Tbl
+TBY
 TCEHY
 telework
 tencel
